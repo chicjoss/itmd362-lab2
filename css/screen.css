@@ -80,10 +80,9 @@
   
   }
 img {
-  border: 4px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+  border-radius: 50%;
 }
 
 <img src="photodan-dimmock-sNwnjxm8eTY-unsplash.jpg" alt="Student">
+
+}
