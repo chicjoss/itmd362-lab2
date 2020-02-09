@@ -15,7 +15,7 @@
     }
   
     form > fieldset {
-      width: 850%;
+      width: 85%;
       float: none;
     }
   
@@ -53,9 +53,9 @@
   h1  {
       font-family:serif ;
       text-align: center;
-      font-size: 50px;
+      font-size: 60px;
       color: #FFF5EE;
-      padding-bottom: 20px;
+      padding-bottom: 30px;
   }
   
   input {
