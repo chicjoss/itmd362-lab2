@@ -1,0 +1,79 @@
+@media screen and (max-width: 500px) {
+    form {
+      margin: 0 0 7px 0;
+      width: 100%;
+    }
+    form > label,
+    legend {
+        width: 100%;
+      float: none;
+    }
+  
+    label {
+      width: 100%;
+      text-align: center;
+    }
+  
+    form > fieldset {
+      width: 850%;
+      float: none;
+    }
+  
+    input[type=text],
+    input[type=text],
+    input[type=text],
+    input[type=date] {
+      width: 90%;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    form > label,
+      legend {
+        text-align: center;
+      width: 100%;
+    }
+  }
+  
+
+
+
+  body {
+      background-color: rgb(77, 185, 178);
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      font-family:fantasy;
+      font-size: 25px;
+  
+  }
+  label{
+      padding: 15px;
+  }
+  
+  h1  {
+      font-family:serif ;
+      text-align: center;
+      font-size: 50px;
+      color: #FFF5EE;
+      padding-bottom: 20px;
+  }
+  
+  input {
+      padding: 10px;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+  }
+  
+  input[type=text], input[type=email] {
+      width: 35%;
+      font-size: 18px;
+      padding: 9px;
+  }
+  
+  input[type="submit"] {
+      margin-right: auto;
+      margin-left: auto;
+      margin-top:2px;
+  
+  }
