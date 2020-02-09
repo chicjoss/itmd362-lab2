@@ -27,18 +27,16 @@
     {
       width: 90%;
     }
+}
  
   @media screen and (max-width: 900px) {
     form > label,
       legend {
         text-align: center;
       width: 100%;
-    }
-  }
   
-
-
-
+      }
+}
   body {
       background-color: #AEB6BF ;
       margin-right: auto;
@@ -84,3 +82,4 @@ img {
 }
 <img src="photodan-dimmock-sNwnjxm8eTY-unsplash.jpg" alt="Student">
 
+}
