@@ -24,10 +24,11 @@
     input[type=text],
     input[type=email],
     input[type=text],
-    input[type=text] {
+    input[type=text] 
+    {
       width: 90%;
     }
-  }
+ 
   @media screen and (max-width: 900px) {
     form > label,
       legend {
