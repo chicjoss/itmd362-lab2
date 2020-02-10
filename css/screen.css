@@ -16,14 +16,11 @@
     }
   
     form > fieldset {
-      width: 85%;
+      width: 95%;
       float: none;
     }
   
-    input[type=text],
-    input[type=email],
-    input[type=text],
-    input[type=text] 
+    input[type=text],input[type=email],input[type=text], input[type=text] 
     {
       width: 90%;
     }
