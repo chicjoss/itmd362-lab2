@@ -39,7 +39,7 @@
       margin-right: auto;
       margin-left: auto;
       text-align: center;
-      font-family:fantasy;
+       font-family: 'Rubik', sans-serif;
       font-size: 25px;
   
   }
@@ -48,7 +48,7 @@
   }
   
   h1  {
-      font-family: 'Montserrat', sans-serif; ;
+      font-family: 'Anton', sans-serif;
       text-align: center;
       font-size: 60px;
       color: #FFF5EE;
