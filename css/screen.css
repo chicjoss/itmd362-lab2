@@ -13,11 +13,11 @@
       text-align: center;
         font-size: 1.0em;
     }
-  
-    form > fieldset {
+   fieldset {
       width: 95%;
       float: none;
     }
+  
   
     input[type=text],input[type=email],input[type=text], input[type=text] 
     {
